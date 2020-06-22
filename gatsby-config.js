@@ -4,7 +4,13 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
+    siteTitleAlt: `Sonu kumar kushwaha`,
+    siteTitle: `Sonu\'s blog`,
+    siteHeadline: "Sonu's blog",
+    siteUrl: "https://blog-minimal.netlify.app/",
+    siteDescription: "Sonu's personal blog",
+    siteLanguage: "en",
+    author: "Sonu kumar kushwaha",
   },
   plugins: [
     {
@@ -30,6 +36,10 @@ module.exports = {
             name: `Instagram`,
             url: `https://www.instagram.com/flyingsonu736/`,
           },
+          {
+            name: `LinkedIn`,
+            url: `https://www.linkedin.com/in/sonu-kumar-kushwaha-0b98a6180`,
+          },
         ],
       },
     },
@@ -43,9 +53,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Sonu's Blog `,
+        short_name: `Sonu`,
+        description: `Sonu's personal blog`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#6B46C1`,
