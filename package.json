@@ -2,7 +2,7 @@
   "private": true,
   "name": "minimal-blog",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
-  "version": "1.1.9",
+  "version": "1.1.5",
   "author": "LekoArts <hello@lekoarts.de>",
   "license": "MIT",
   "starter-name": "gatsby-starter-minimal-blog",
@@ -13,13 +13,19 @@
     "build:cypress": "cross-env CYPRESS_SUPPORT=y yarn build",
     "start": "gatsby develop",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "lint": "npm run textlint:content",
+    "textlint": "run-p textlint:content textlint:src",
+    "textlint:content": "textlint content/**/*.mdx",
+    "textlint:src": "textlint src/**/*.mdx",
+    "write-good": "write-good content/**/*.mdx"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog": "^2.3.9",
+    "@lekoarts/gatsby-theme-minimal-blog": "^2.3.5",
     "gatsby": "^2.20.36",
     "gatsby-plugin-google-analytics": "^2.1.4",
     "gatsby-plugin-manifest": "^2.2.3",
+    "gatsby-plugin-matomo": "^0.8.3",
     "gatsby-plugin-netlify": "^2.1.3",
     "gatsby-plugin-offline": "^2.2.4",
     "gatsby-plugin-sitemap": "^2.2.19",
@@ -27,6 +33,15 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "cross-env": "^5.2.0"
+    "cross-env": "^5.2.0",
+    "husky": "^4.2.5",
+    "npm-run-all": "^4.1.5",
+    "textlint": "^11.6.3",
+    "textlint-rule-common-misspellings": "^1.0.1",
+    "textlint-rule-no-start-duplicated-conjunction": "^2.0.2",
+    "textlint-rule-no-todo": "^2.0.1",
+    "textlint-rule-rousseau": "^1.4.6",
+    "textlint-rule-unexpanded-acronym": "^1.2.4",
+    "write-good": "^1.0.2"
   }
 }

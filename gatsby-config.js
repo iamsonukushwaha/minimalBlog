@@ -1,6 +1,6 @@
 require(`dotenv`).config({
   path: `.env`,
-})
+});
 
 module.exports = {
   siteMetadata: {
@@ -72,6 +72,14 @@ module.exports = {
             type: `image/png`,
           },
         ],
+      },
+    },
+    {
+      resolve: "gatsby-plugin-matomo",
+      options: {
+        siteId: "2",
+        // matomoUrl: "https://matomo",
+        siteUrl: "https://blog-minimal.netlify.app/",
       },
     },
     `gatsby-plugin-offline`,
