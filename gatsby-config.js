@@ -37,8 +37,8 @@ module.exports = {
             url: `https://www.instagram.com/flyingsonu736/`,
           },
           {
-            name: `Medium`,
-            url: `https://medium.com/@sonukumarkushwaha`,
+            name: `Resume`,
+            url: `/resume.pdf`,
           },
         ],
       },
