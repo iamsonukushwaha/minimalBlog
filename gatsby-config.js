@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `Resume`,
-            url: `https://github.com/flyingsonu122/minimalBlog/blob/master/static/Sonu's%20Resume.pdf`,
+            url: `/static/Sonu's Resume.pdf`,
           },
         ],
       },
