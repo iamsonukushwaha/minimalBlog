@@ -37,8 +37,8 @@ module.exports = {
             url: `https://www.instagram.com/flyingsonu736/`,
           },
           {
-            name: `LinkedIn`,
-            url: `https://www.linkedin.com/in/sonukumarkushwaha/`,
+            name: `Resume`,
+            url: `https://github.com/flyingsonu122/minimalBlog/blob/master/static/Sonu's%20Resume.pdf`,
           },
         ],
       },
