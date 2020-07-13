@@ -38,7 +38,7 @@ module.exports = {
           },
           {
             name: `Resume`,
-            url: `\static\Sonu's Resume.pdf`,
+            url: `/static/resume.pdf`,
           },
         ],
       },
