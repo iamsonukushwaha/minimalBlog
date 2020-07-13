@@ -37,14 +37,8 @@ module.exports = {
             url: `https://www.instagram.com/flyingsonu736/`,
           },
           {
-            name: `Resume`,
-            _url: `/static/resume.pdf`,
-            get url() {
-              return this._url;
-            },
-            set url(value) {
-              this._url = value;
-            },
+            name: `Medium`,
+            url: `https://medium.com/@sonukumarkushwaha`,
           },
         ],
       },
