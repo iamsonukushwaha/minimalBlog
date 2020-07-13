@@ -38,7 +38,13 @@ module.exports = {
           },
           {
             name: `Resume`,
-            url: `/static/resume.pdf`,
+            _url: `/static/resume.pdf`,
+            get url() {
+              return this._url;
+            },
+            set url(value) {
+              this._url = value;
+            },
           },
         ],
       },
