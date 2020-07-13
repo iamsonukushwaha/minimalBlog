@@ -32,7 +32,6 @@ module.exports = {
             name: `Medium`,
             url: `https://medium.com/@sonukumarkushwaha`,
           },
-          
           {
             name: `Instagram`,
             url: `https://www.instagram.com/flyingsonu736/`,
