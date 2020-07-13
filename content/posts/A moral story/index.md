@@ -5,8 +5,6 @@ slug: "/A moral story"
 ---
 
 
-
-
 On a certain day, a bull and a pheasant were grazing on a field.
 
 The bull was grazing and the pheasant was picking ticks off the bull—a perfect partnership. Looking at the huge tree at the edge of the field, the pheasant said, “Alas, there was a time I could fly to the topmost branch
