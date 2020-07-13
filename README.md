@@ -6,3 +6,5 @@
 <h1 align="center">
   Gatsby Starter: Minimal Blog
 </h1>
+
+**see my [Resume](/resume.pdf) 
