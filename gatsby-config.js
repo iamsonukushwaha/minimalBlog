@@ -29,16 +29,17 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/sonukumarkush12`,
+            name: `Medium`,
+            url: `https://medium.com/@sonukumarkushwaha`,
           },
+          
           {
             name: `Instagram`,
             url: `https://www.instagram.com/flyingsonu736/`,
           },
           {
-            name: `Medium`,
-            url: `https://medium.com/@sonukumarkushwaha`,
+            name: `Twitter`,
+            url: `https://twitter.com/sonukumarkush12`,
           },
         ],
       },
