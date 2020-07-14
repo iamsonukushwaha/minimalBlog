@@ -28,10 +28,7 @@ module.exports = {
           },
         ],
         externalLinks: [
-          {
-            name: `Blogger`,
-            url: `https://singlebucks.blogspot.com/`,
-          },
+          
           {
             name: `GitHub`,
             url: `https://github.com/flyingsonu122`,
