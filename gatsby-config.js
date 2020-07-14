@@ -33,8 +33,8 @@ module.exports = {
             url: `https://medium.com/@sonukumarkushwaha`,
           },
           {
-            name: `Instagram`,
-            url: `https://www.instagram.com/flyingsonu736/`,
+            name: `GitHub`,
+            url: `https://github.com/flyingsonu122`,
           },
           {
             name: `Twitter`,
