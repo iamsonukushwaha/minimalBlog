@@ -29,8 +29,8 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Medium`,
-            url: `https://medium.com/@sonukumarkushwaha`,
+            name: `Blogger`,
+            url: `https://singlebucks.blogspot.com/`,
           },
           {
             name: `GitHub`,
