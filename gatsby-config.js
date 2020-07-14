@@ -28,7 +28,6 @@ module.exports = {
           },
         ],
         externalLinks: [
-          
           {
             name: `GitHub`,
             url: `https://github.com/flyingsonu122`,
