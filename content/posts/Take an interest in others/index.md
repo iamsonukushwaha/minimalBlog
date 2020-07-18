@@ -1,6 +1,6 @@
 ---
 title: "Take an interest in others"
-date: 2019-12-10
+date: 2019-06-26
 slug: "/Take an interest in others"
 ---
 
