@@ -25,5 +25,5 @@ them feel better and raise their self-esteem.
 ■ And every time you contribute to raising another’s self-esteem, you simultane-
 ously raise your own to at least the same degree.
 
-**‘Happiness is a perfume you cannot pour on others without getting a few drops
-on yourself’**.
+**Happiness is a perfume you cannot pour on others without getting a few drops
+on yourself**.
