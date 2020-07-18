@@ -4,8 +4,7 @@ date: 2019-06-26
 slug: "/Take an interest in others"
 ---
 
-When we seek to discover the best in others,
-we somehow bring out the best in ourselves.
+When we seek to discover the best in others, we somehow bring out the best in ourselves.
 
 When you make a positive impact on another person’s life, you attract the same
 from others because what we give out, we receive.
