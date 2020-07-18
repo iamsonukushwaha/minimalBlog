@@ -26,3 +26,5 @@ heart has listened.
 
 Become a good listener and you’ll gain a reputation as a good conversationalist without
 having to say very much at all.
+
+See Original Post [Here](https://singlebucks.blogspot.com/2019/06/be-good-listener.html)
