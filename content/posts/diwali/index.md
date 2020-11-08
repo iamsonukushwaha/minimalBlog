@@ -1,4 +1,9 @@
-# Celebrating Diwali
+---
+title: "Celebrating Diwali"
+date: 2019-11-08
+slug: "/diwali"
+---
+
 ## Golden Temple
 
 
