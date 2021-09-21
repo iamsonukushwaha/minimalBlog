@@ -1,8 +1,11 @@
-# Gatsby Starter: Minimal Blog
+# minimalBlog
 
-**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
+<br><br>
 
-### Thanks!
+**MIT &copy; [Sonu Kumar Kushwaha](https://github.com/flyingsonu122)**
+
+**Thanks!**
+
 
 Thank you for being here! You can find my other project **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
